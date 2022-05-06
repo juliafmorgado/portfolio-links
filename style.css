@@ -118,11 +118,11 @@ p.intro {
 /* UTILITIES */
 /* Adds background colour to anchor tags with a parent with class of "bg" */
 .bg a {
-  background: linear-gradient(to right, rgb(59, 130, 246), rgb(147, 51, 234));
+  background: linear-gradient(to right, #3f82b9, #aed9fa);
 }
 
 .bg a:hover {
-  background: linear-gradient(to right, rgb(147, 51, 234), rgb(59, 130, 246));
+  background: linear-gradient(to right, #aed9fa, #3f82b9);
 }
 
 .flex {
