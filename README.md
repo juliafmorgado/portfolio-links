@@ -3,7 +3,8 @@
 <img src='https://github.com/juliafmorgado/portfolio-links/blob/main/images/portfolio-links.gif' width='100%'>
 
 <br>
-
+<h2>About</h2>
+<p>A webpage to connect my audience to all of my content with just one link.</p>
   
 <h2 align='center'>Techs used</h2>
 <div align='center'>
