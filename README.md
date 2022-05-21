@@ -1,4 +1,4 @@
-<h1 align='center'> Bio Links | <a href='https://juliafmorgado.github.io/portfolio-links/'>Visit here!</a></h1>
+<h1 align='center'> Online Business Card | <a href='https://juliafmorgado.github.io/portfolio-links/'>Visit here!</a></h1>
 
 <img src='https://github.com/juliafmorgado/portfolio-links/blob/main/images/portfolio-links.gif' width='100%'>
 
